@@ -1,18 +1,10 @@
-## Getting Started
+# Projeto em Java - Criando um Jogo 2D
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Nesse projeto foi utilizado POO
+#### Abstração
+Estrutura Clara: As classes são estruturadas de maneira a representar conceitos do mundo real, como Player, Enemy1, Stars, etc. Isso torna o design mais compreensível e modular.
 
-## Folder Structure
+#### Interação Entre Objetos
+Métodos de Colisão: A interação entre diferentes objetos do jogo, como a verificação de colisões entre o Player e Enemy1, demonstra como objetos diferentes interagem uns com os outros.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Imagem do jogo rodando](Captura de tela.png)
