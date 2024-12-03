@@ -7,4 +7,4 @@ Estrutura Clara: As classes são estruturadas de maneira a representar conceitos
 #### Interação Entre Objetos
 Métodos de Colisão: A interação entre diferentes objetos do jogo, como a verificação de colisões entre o Player e Enemy1, demonstra como objetos diferentes interagem uns com os outros.
 
-![Imagem do jogo rodando](Captura de tela .png)
+![Imagem do jogo rodando](Captura.png)
